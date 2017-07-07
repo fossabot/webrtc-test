@@ -1,4 +1,6 @@
 # webrtc-test
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fwebrtc-test.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fwebrtc-test?ref=badge_shield)
+
 
 Framework for functional and Load Testing of WebRTC. Can be used to test client and server media components utilizing WebRTC, like Media Servers, SIP clients, etc. Has been tested both in regular hosts that have a window environment as well as headless servers in Amazon EC2 (using Xvfb)
 
@@ -164,3 +166,7 @@ As always, feel free to jump in and play with the code and get your hands dirty.
 
 
 For frequently asked questions, please refer to the [FAQ](https://github.com/RestComm/webrtc-test/wiki/FAQ)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fwebrtc-test.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fwebrtc-test?ref=badge_large)
